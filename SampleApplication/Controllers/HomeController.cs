@@ -14,5 +14,10 @@ namespace SampleApplication.Controllers
 
             return View();
         }
+
+        public ActionResult Test()
+        {
+            return View();
+        }
     }
 }
